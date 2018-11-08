@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1541155274 source:d:\c++\discretka\lab3\dislab3\liblab3.cpp
+	<iostream>
+	"liblab3.h"
+
+1541110433 d:\c++\discretka\lab3\dislab3\liblab3.h
+
+1541153165 source:d:\c++\discretka\lab3\dislab3\main.cpp
+	<iostream>
+	"liblab3.h"
+
+1541153165 source:d:\labku codeblocks\discretka\lab3\dislab3\main.cpp
+	<iostream>
+	"liblab3.h"
+
+1541110433 d:\labku codeblocks\discretka\lab3\dislab3\liblab3.h
+
+1541259532 source:d:\labku codeblocks\discretka\lab3\dislab3\liblab3.cpp
+	<iostream>
+	"liblab3.h"
+

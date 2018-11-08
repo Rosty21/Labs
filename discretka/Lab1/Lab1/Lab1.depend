@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538168245 source:d:\c++\discretka\lab1\lab1\logcon.cpp
+	<stdio.h>
+	"LogCon.h"
+
+1538684160 source:d:\c++\discretka\lab1\lab1\main.cpp
+	<stdio.h>
+	"LogCon.h"
+
+1537387341 d:\c++\discretka\lab1\lab1\logcon.h
+
